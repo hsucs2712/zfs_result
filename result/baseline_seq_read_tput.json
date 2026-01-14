@@ -5,7 +5,7 @@
   "time" : "Wed Jan 14 13:20:26 2026",
   "jobs" : [
     {
-      "jobname" : "seq_read_lat",
+      "jobname" : "seq_read_tput",
       "groupid" : 0,
       "job_start" : 1768364126828,
       "error" : 0,
